@@ -1,5 +1,5 @@
 {
-  "name": "Request Header Parser Microservice",
+  "name": "rhpm-project",
   "version": "1.0.0",
   "private": true,
   "scripts": {
